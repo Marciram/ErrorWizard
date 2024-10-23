@@ -1,0 +1,143 @@
+  .error-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid #fffefe;
+    padding: 8px 50px;
+    background-color: #ffffff;
+  }
+  
+  .image-section img {
+    max-width: 40px;
+    max-height: 40px;
+  }
+  .error-code-section {
+    flex-grow: 1;
+    margin: 0 20px;
+    background-color: #f8d7da;
+    padding: 10px;
+    border-radius: 5px;
+    color: #721c24;
+    font-family: monospace;
+  }
+  
+  .error-description-section {
+    flex-grow: 1;
+    max-width: 200px;
+    margin-left: 0px;
+  }
+  
+  .mileage-section {
+    flex-grow: 1;
+    max-width: 200px;
+    margin-left: 0px;
+  }
+  
+  .nav-menu {
+    list-style-type: none; /* Removes bullet points */
+    padding: 0; /* Removes default padding */
+    margin: 0; /* Removes default margin */
+  }
+
+  .header-section {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 0px;
+  }
+  
+  .header-section h2 {
+    flex: 1;
+    text-align: center;
+    font-size: 1.3em;
+    color: #333;
+  }
+
+  .header-section h2 {
+    flex: 1;
+    text-align: center;
+    font-size: 1.3em;
+    color: #333;
+  }
+
+  .header-section h1 {
+    flex: 1;
+    text-align: center;
+    font-size: 1.8em;
+    color: #333;
+  }
+
+  .title-section {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 0px;
+    background-color: #ffffff;
+  }
+  .title-section h2 {
+    flex: 1;
+    text-align: center;
+    font-size: 1.3em;
+    color: #333;
+  }
+
+
+  .arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 8px;
+  }
+
+  .down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+
+  .up {
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+  }
+  
+  .collapsible-container {
+    width: 100%;
+    margin: 20px 0;
+  }
+  
+  .collapsible-button {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 8px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    background-color: #ffffff;
+  }
+  
+  .collapsible-button:hover {
+    background-color: #ffffff;
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+  }
+  
+  .collapsible-content {
+    padding: 20px;
+    background-color: #f1f1f1;
+    border: 1px solid #ddd;
+    margin-top: 10px;
+  }
+  .header-car {
+    flex-grow: 1;
+    margin: 0 20px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 10px;
+    color: #000000;
+   
+  }
+  .header-car h2 {
+    flex: 1;
+    text-align: center;
+    font-size: 1.3em;
+    color: #333;
+    font-weight: bold;
+  }
+  

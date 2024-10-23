@@ -1,0 +1,98 @@
+{"predictions":[
+    
+    {
+        "index": 1,
+        "odometer": 282916.0,
+        "model": "F-150",
+        "year": 2006,
+        "Monthly_drive": 1309.79,
+        "results_by_car": [
+            {
+                "odometer": "Your current Mileage",
+                "code": "P0300",
+                "description": "Random/Multiple Cylinder Misfire Detected"
+            },
+            {
+                "odometer": 1100,
+                "code": "P0190",
+                "description": "Fuel Rail Pressure Sensor Circuit Malfunction"
+            },
+            {
+                "odometer": 2200,
+                "code": "P0455",
+                "description": "System Gross Leak Evaporative Emission"
+            }
+        ]
+    },
+    {
+        "index": 5,
+        "odometer": 152658.0,
+        "model": "F-150",
+        "year": 2008,
+        "Monthly_drive": 795.09,
+        "results_by_car": [
+            {
+                "odometer": "Your current Mileage",
+                "code": "P0300",
+                "description": "Random/Multiple Cylinder Misfire Detected"
+            },
+            {
+                "odometer": 1100,
+                "code": "P2195",
+                "description": "O2 Sensor Signal Stuck Lean Bank 1 Sensor 1"
+            }
+        ]
+    },
+    {
+        "index": 6,
+        "odometer": 199465.0,
+        "model": "F-150",
+        "year": 2000,
+        "Monthly_drive": 692.58,
+        "results_by_car": [
+            {
+                "odometer": "Your current Mileage",
+                "code": "P0351",
+                "description": "Ignition Coil A Primary/Secondary Circuit Malfunction"
+            },
+            {
+                "odometer": 1100,
+                "code": "P0300",
+                "description": "Random/Multiple Cylinder Misfire Detected"
+            }
+        ]
+    },
+    {
+        "index": 7,
+        "odometer": 187080.0,
+        "model": "F-150",
+        "year": 2004,
+        "Monthly_drive": 779.5,
+        "results_by_car": [
+            {
+                "odometer": "Your current Mileage",
+                "code": "P0171",
+                "description": "System Too Lean (Bank 1)"
+            }
+        ]
+    },
+    {
+        "index": 10,
+        "odometer": 192636.0,
+        "model": "F-150",
+        "year": 2007,
+        "Monthly_drive": 944.29,
+        "results_by_car": [
+            {
+                "odometer": "Your current Mileage",
+                "code": "P0300",
+                "description": "Random/Multiple Cylinder Misfire Detected"
+            },
+            {
+                "odometer": 1100,
+                "code": "P0011",
+                "description": "Intake Camshaft Position Timing \u2013 Over-Advanced (Bank 1)"
+            }
+        ]
+    }
+]}

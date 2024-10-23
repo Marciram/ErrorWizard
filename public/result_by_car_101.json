@@ -1,0 +1,111 @@
+{"predictions":[
+    {
+        "index": 0,
+        "model": "E-150 Econoline",
+        "year": 1997,
+        "results_by_car": [
+            {
+                "odometer": 250000.0,
+                "code": "P0300",
+                "description": "['Random/Multiple Cylinder Misfire Detected']"
+            },
+            {
+                "odometer": 266830.0,
+                "code": "P0133",
+                "description": "['O2 Sensor Circuit Slow Response (Bank 1 Sensor 1)']"
+            }
+        ]
+    },
+    {
+        "index": 1,
+        "model": "F-150",
+        "year": 2007,
+        "results_by_car": [
+            {
+                "odometer": 192636.0,
+                "code": "P0300",
+                "description": "['Random/Multiple Cylinder Misfire Detected']"
+            },
+            {
+                "odometer": 220466.0,
+                "code": "P0011",
+                "description": "['Intake Camshaft Position Timing \u2013 Over-Advanced (Bank 1)']"
+            }
+        ]
+    },
+    {
+        "index": 2,
+        "model": "F-150",
+        "year": 2002,
+        "results_by_car": [
+            {
+                "odometer": 303162.0,
+                "code": "P0351",
+                "description": "['Ignition Coil A Primary/Secondary Circuit Malfunction']"
+            },
+            {
+                "odometer": 347822.0,
+                "code": "P0420",
+                "description": "['Catalyst System Efficiency Below Threshold (Bank 1)']"
+            }
+        ]
+    },
+    {
+        "index": 3,
+        "model": "F-150",
+        "year": 2002,
+        "results_by_car": [
+            {
+                "odometer": 240365.0,
+                "code": "P1400",
+                "description": "['DPFE Circuit Low Input']"
+            },
+            {
+                "odometer": 244325.0,
+                "code": "P0300",
+                "description": "['Random/Multiple Cylinder Misfire Detected']"
+            }
+        ]
+    },
+    {
+        "index": 4,
+        "model": "Ranger",
+        "year": 2003,
+        "results_by_car": [
+            {
+                "odometer": 228287.0,
+                "code": "P0300",
+                "description": "['Random/Multiple Cylinder Misfire Detected']"
+            },
+            {
+                "odometer": 266897.0,
+                "code": "P0133",
+                "description": "['O2 Sensor Circuit Slow Response (Bank 1 Sensor 1)']"
+            }
+        ]
+    },
+    {
+        "index": 5,
+        "model": "F-250 Super Duty",
+        "year": 2019,
+        "results_by_car": [
+            {
+                "odometer": 185585.0,
+                "code": "P0420",
+                "description": "['Catalyst System Efficiency Below Threshold (Bank 1)']"
+            }
+        ]
+    },
+    {
+        "index": 6,
+        "model": "F-150",
+        "year": 2016,
+        "results_by_car": [
+            {
+                "odometer": 193722.0,
+                "code": "P0420",
+                "description": "['Catalyst System Efficiency Below Threshold (Bank 1)']"
+            }
+        ]
+    }
+]}
